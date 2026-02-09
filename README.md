@@ -13,7 +13,7 @@
 🔹 **Ethical Hacker | Blue Teamer | Soc Analyst**  
 🔹 Expert in **Soc, Network Security, and Insident Response**  
 🔹 Passionate about **Threat Intelligence, SIEM, and Threat Hunting**  
-🔹 Strong skills in **OSINT, Incident Response, and **  
+🔹 Strong skills in **End Point Security, Compliance, and Networking**  
 🔹 **Soc Analyst** 🎤  
 
 ---
@@ -30,14 +30,9 @@
 🚨 **Incident Response:** Wireshark, Snort, Volatility  
 🔐 **Digital Forensics:** Autopsy, FTK Imager, Sleuth Kit  
 
-🛠️ **Cryptography & Secure Development**  
-🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt  
-📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
-🌍 **Cloud Security:** AWS Security Hub, Azure Sentinel  
-
 📀 **Operating Systems & Networks**  
 🐧 **Linux:** Kali, Parrot OS, Ubuntu  
-🖥️ **Windows Security:** PowerShell, Sysinternals  
+🖥️ **Windows Security:** Command Prompt
 🌐 **Network Security:** Nmap, Netcat, Aircrack-ng  
 
 # 💻 Tech Stack:
