@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Sahil - Penetration Tester & Red Teamer 🔐</h1>
+<h1 align="center">🛡️ Anuj - Blue Teamer & Soc Analyst 🔐</h1>
 <h3 align="center">"Securing the digital world, one vulnerability at a time!"</h3>
 
 
@@ -10,11 +10,11 @@
 ---
 
 ## 🚀 About Me  
-🔹 **Ethical Hacker | Penetration Tester | Red Teamer**  
-🔹 Expert in **Application Security, Network Defense, and Red Teaming**  
-🔹 Passionate about **Threat Intelligence, SIEM, and Digital Forensics**  
-🔹 Strong skills in **OSINT, Incident Response, and Secure Coding**  
-🔹 **Application Security** 🎤  
+🔹 **Ethical Hacker | Blue Teamer | Soc Analyst**  
+🔹 Expert in **Soc, Network Security, and Insident Response**  
+🔹 Passionate about **Threat Intelligence, SIEM, and Threat Hunting**  
+🔹 Strong skills in **OSINT, Incident Response, and **  
+🔹 **Soc Analyst** 🎤  
 
 ---
 
