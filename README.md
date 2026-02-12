@@ -20,11 +20,6 @@
 
 ## 🏴‍☠️ Skills & Expertise  
 
-🎯 **Offensive Security (Red Team)**  
-💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap  
-🔍 **Web & API Security:** OWASP ZAP, Nikto, Recon-ng  
-🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, TheHarvester  
-
 🛡️ **Defensive Security (Blue Team)**  
 🖥️ **SIEM & Monitoring:** Splunk, ELK Stack, Suricata  
 🚨 **Incident Response:** Wireshark, Snort, Volatility  
